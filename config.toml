@@ -7,9 +7,7 @@ timeout=3000
 
 [params]
   subtitle= "PhD Student"
-  interests="Deep Reinforcement Learning, Machine Learning "
-  cv_name= "HadiSinaee_CV.pdf"
-  blog="http://myblog.edu"
+  interests="Hiking, traveling, golfing, and swimming"
 
 [[params.affilation]]
   name = "Weight: 170(lb)"
