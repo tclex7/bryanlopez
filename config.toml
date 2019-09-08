@@ -1,0 +1,63 @@
+baseURL = "https://example.edu"
+languageCode = "en-us"
+title = "BRYAN J LOPEZ"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"
+timeout=3000
+
+[params]
+  subtitle= "PhD Student"
+  interests="Deep Reinforcement Learning, Machine Learning "
+  cv_name= "HadiSinaee_CV.pdf"
+  blog="http://myblog.edu"
+
+[[params.affilation]]
+  name = "Weight: 170(lb)"
+  position = "Height: 6'1"
+ 
+
+[[params.affilation]]
+  name = "Position: Defense"
+  position = "Dominant Foot: Right"
+  contact = "Phone: 562-240-4763, Bryanjlopez2020@gmail.com"
+
+
+[[params.introduction.paragraph]]
+  text="""Club Soccer
+  
+  - 2017-2018: FC Premier Europa League, Left Full Back
+  - State Cup 2017 & 2018
+  - FC Premier Cup 2018
+  - 2018-Current: Long Beach Pateadores Soccer Club Champions League, Center Back (Team Captain)
+  - National Cup 2019 
+  - OC Surf Invitational 2018 & 2019
+  - NHB Annual Cup 2018 & 2019
+  - LA Galaxy OC Summer Invitational 2018
+  - West Coast Futbol Classic Showcase 2019
+  - Carlsbad Cup Showcase 2019
+   
+
+   """
+[[params.introduction.paragraph]]
+  text="""High School Soccer
+  
+  - 2018-2019 Robert A. Millikan High School Junior Varsity Soccer, Center Back
+  - Huntington Beach Invitational 2018
+  - 2019-2020 Robert A. Millikan High School Varsity Soccer, Center Back
+   """
+[[params.introduction.paragraph]]
+  text=""" High School Academics
+
+- AP Human Geography
+- AP World History
+- AP US History
+- AP English Language & Composition
+- AP Physics 1: Algebra-based
+- AP Government & Politics
+- AP Macroeconomics
+- AP Calculus AB
+- AP Spanish Language
+- 4.0 Grade Point Average
+- 1220 SAT Score
+  """
+
