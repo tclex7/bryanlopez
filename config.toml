@@ -9,35 +9,23 @@ timeout=3000
 
 [[params.introduction.paragraph]]
   text="""
-  <font size="6" color="00008b"><Center>**Bryan J Lopez**</Center></font> </span>
-  <Center>**Millikan High School**</Center>
-<Center>1515 Hughes Way, Long Beach</Center>
-<Center>CLASS OF 2020</Center>
-<Center>BryanJLopez2020@gmail.com </Center>
-<Center>http://BryanLopez.Netlify.com </Center>
-<Center>562-240-4763</Center><br />
-<br />
-<font size="4">**GOAL**:</font> <font size="3">*To obtain a Bachelors Degree in Business and play soccer at the collegiate level.*</font>
+ <center><span style="color: 00008b; font-size: xx-large;"><strong>Bryan J Lopez</strong></span></center><center><strong>Millikan High School</strong></center><center>1515 Hughes Way, Long Beach</center><center>CLASS OF 2020</center><center>BryanJLopez2020@gmail.com</center><center><a href="http://bryanlopez.netlify.com/">http://BryanLopez.Netlify.com</a></center><center>562-240-4763</center>
+<p><br /><br /><span style="font-size: large;"><strong>GOAL</strong>:</span>&nbsp;<span style="font-size: medium;"><em>To obtain a Bachelors Degree in Business and play soccer at the collegiate level.</em></span></p>
+<p>&nbsp;</p>
+<p><u><span style="color: 00008b; font-size: large;"><strong>Student/Athlete Profile</strong></span></u></p>
+<p><strong>Height:</strong>&nbsp;6&rsquo;1&nbsp;<strong>Weight:</strong>&nbsp;170lb</p>
+<p><strong>Birthday:</strong>&nbsp;06/23/2002</p>
+<p><strong>Dominant Foot:</strong>&nbsp;Right</p>
+<p><strong>Position:</strong>&nbsp;Defense</p>
+<p><strong>NCAA ID#</strong>&nbsp;1908663301</p>
+<p><u><span style="color: 00008b; font-size: large;"><strong>ATHLETETICS</strong></span></u></p>
+<p><span style="font-size: x-large;"><strong>Club Soccer</strong></span></p>
+<pre class="tab">Coach Name:Hugo Sanchez   <u>hugojsanchez@gmail.com</u>    562-230-1466 </pre>
+<p>2018- 2019&nbsp;<strong>Long Beach Pateadores</strong>&nbsp;Soccer club Champions League, Center Back (TEAM CAPTAIN)</p>
+<p><strong>Playing History</strong><br />2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;National Cup<br />2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;West Coast Futbol Classics Showcase<br />2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Carlsbad Cup Showcase<br />2018-2019&nbsp; &nbsp; Orange County Surf Invitational<br />2018-2019&nbsp; &nbsp; NHB Annual Cup<br />2018&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; FC Premier Cup<br />2018&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LA Galaxy Orange County Summer Invitational<br />2018&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;State Cup<br />2017-2018&nbsp;&nbsp; &nbsp; FC Premier Europa League</p>
 
-<u><font size="4" color="00008b">**Student/Athlete Profile**</font></u>
-
-**Height:** 6'1 **Weight:** 170lb
-
-**Birthday:** 06/23/2002
-
-**Dominant Foot:** Right
-
-**Position:** Defense
-
-**NCAA ID#** 1908663301
-
-<u><font size="4" color="00008b">**ATHLETETICS**</font></u>
-
-<font size="5">**Club Soccer**</font>
-<br><pre class="tab">Coach Name:Hugo Sanchez   <u>hugojsanchez@gmail.com</u>    562-230-1466 </pre>
-
-<pre class="tab">2018- 2019  **Long Beach Pateadores** Soccer club Champions League, Center Back
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
    """
 
 
